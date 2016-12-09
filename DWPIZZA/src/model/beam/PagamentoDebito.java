@@ -10,9 +10,9 @@ package model.beam;
  *
  * @author Edson
  */
-public class PagamentoB extends Pagamento {
+public class PagamentoDebito extends Pagamento {
 
-    public PagamentoB(String numeroCartao) {
+    public PagamentoDebito(String numeroCartao) {
         super(numeroCartao);
     }
     

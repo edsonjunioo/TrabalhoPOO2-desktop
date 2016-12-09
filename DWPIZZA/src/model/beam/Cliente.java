@@ -5,10 +5,7 @@
  */
 package model.beam;
 
-/**
- *
- * @author Henrique
- */
+
 public class Cliente {
     private int id;
     private String nome;
