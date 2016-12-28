@@ -8,8 +8,6 @@ package principal;
 
 
 import control.ClienteControl;
-import model.beam.Adicionais;
-import model.beam.AdicionalBorda;
 import model.beam.Cliente;
 import model.beam.Pizza;
 import model.beam.PizzaCalabresa;

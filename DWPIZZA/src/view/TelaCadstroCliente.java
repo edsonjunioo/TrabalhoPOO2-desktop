@@ -103,7 +103,7 @@ public class TelaCadstroCliente extends javax.swing.JFrame {
                         .addGap(57, 57, 57)
                         .addComponent(btnLimpar))
                     .addGroup(layout.createSequentialGroup()
-                        .addGap(168, 168, 168)
+                        .addGap(159, 159, 159)
                         .addComponent(jButton1)))
                 .addContainerGap(62, Short.MAX_VALUE))
         );
@@ -128,9 +128,9 @@ public class TelaCadstroCliente extends javax.swing.JFrame {
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(btnSalvar)
                     .addComponent(btnLimpar))
-                .addGap(18, 18, 18)
+                .addGap(27, 27, 27)
                 .addComponent(jButton1)
-                .addContainerGap(47, Short.MAX_VALUE))
+                .addContainerGap(38, Short.MAX_VALUE))
         );
 
         pack();

@@ -3,32 +3,12 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Edson/Documents/GitHub/TrabalhoPOO2-desktop/DWPIZZA/src/view/TelaFinalizarPedido.java</file>
-            <file>file:/C:/Users/Edson/Documents/GitHub/TrabalhoPOO2-desktop/DWPIZZA/src/model/beam/Tela.java</file>
-            <file>file:/C:/Users/Edson/Documents/GitHub/TrabalhoPOO2-desktop/DWPIZZA/src/model/beam/AdicionalChampignon.java</file>
-            <file>file:/C:/Users/Edson/Documents/GitHub/TrabalhoPOO2-desktop/DWPIZZA/src/model/beam/PizzaMarguerita.java</file>
-            <file>file:/C:/Users/Edson/Documents/GitHub/TrabalhoPOO2-desktop/DWPIZZA/src/model/beam/PagamentoCredito.java</file>
-            <file>file:/C:/Users/Edson/Documents/GitHub/TrabalhoPOO2-desktop/DWPIZZA/src/model/beam/PizzaMussarela.java</file>
-            <file>file:/C:/Users/Edson/Documents/GitHub/TrabalhoPOO2-desktop/DWPIZZA/src/model/beam/Cliente.java</file>
-            <file>file:/C:/Users/Edson/Documents/GitHub/TrabalhoPOO2-desktop/DWPIZZA/src/view/TelaCadstroCliente.java</file>
-            <file>file:/C:/Users/Edson/Documents/GitHub/TrabalhoPOO2-desktop/DWPIZZA/src/model/beam/PizzaFrango.java</file>
-            <file>file:/C:/Users/Edson/Documents/GitHub/TrabalhoPOO2-desktop/DWPIZZA/src/view/TelaLoginCliente.java</file>
-            <file>file:/C:/Users/Edson/Documents/GitHub/TrabalhoPOO2-desktop/DWPIZZA/src/model/beam/Adicionais.java</file>
-            <file>file:/C:/Users/Edson/Documents/GitHub/TrabalhoPOO2-desktop/DWPIZZA/src/model/beam/AdicionalTomateSeco.java</file>
-            <file>file:/C:/Users/Edson/Documents/GitHub/TrabalhoPOO2-desktop/DWPIZZA/src/model/beam/Janela.java</file>
-            <file>file:/C:/Users/Edson/Documents/GitHub/TrabalhoPOO2-desktop/DWPIZZA/src/model/beam/PagamentoDebito.java</file>
-            <file>file:/C:/Users/Edson/Documents/GitHub/TrabalhoPOO2-desktop/DWPIZZA/src/model/beam/Pagamento_forma.java</file>
-            <file>file:/C:/Users/Edson/Documents/GitHub/TrabalhoPOO2-desktop/DWPIZZA/src/view/TelaCardapioCliente.java</file>
-            <file>file:/C:/Users/Edson/Documents/GitHub/TrabalhoPOO2-desktop/DWPIZZA/src/control/ClienteControl.java</file>
-            <file>file:/C:/Users/Edson/Documents/GitHub/TrabalhoPOO2-desktop/DWPIZZA/src/model/beam/Pagamento.java</file>
             <file>file:/C:/Users/Edson/Documents/GitHub/TrabalhoPOO2-desktop/DWPIZZA/src/model/beam/Pedido.java</file>
-            <file>file:/C:/Users/Edson/Documents/GitHub/TrabalhoPOO2-desktop/DWPIZZA/src/model/beam/PizzaPortuguesa.java</file>
-            <file>file:/C:/Users/Edson/Documents/GitHub/TrabalhoPOO2-desktop/DWPIZZA/src/model/beam/AdicionalBorda.java</file>
-            <file>file:/C:/Users/Edson/Documents/GitHub/TrabalhoPOO2-desktop/DWPIZZA/src/model/beam/Pizza.java</file>
-            <file>file:/C:/Users/Edson/Documents/GitHub/TrabalhoPOO2-desktop/DWPIZZA/src/model/beam/PizzaCalabresa.java</file>
-            <file>file:/C:/Users/Edson/Documents/GitHub/TrabalhoPOO2-desktop/DWPIZZA/src/view/TelaAdicionaisCliente.java</file>
-            <file>file:/C:/Users/Edson/Documents/GitHub/TrabalhoPOO2-desktop/DWPIZZA/src/JDBC/ConnectionFactory.java</file>
-            <file>file:/C:/Users/Edson/Documents/GitHub/TrabalhoPOO2-desktop/DWPIZZA/src/view/TelaDadosCliente.java</file>
+            <file>file:/C:/Users/Edson/Documents/GitHub/TrabalhoPOO2-desktop/DWPIZZA/src/model/beam/Janela.java</file>
+            <file>file:/C:/Users/Edson/Documents/GitHub/TrabalhoPOO2-desktop/DWPIZZA/src/model/beam/Tela.java</file>
+            <file>file:/C:/Users/Edson/Documents/GitHub/TrabalhoPOO2-desktop/DWPIZZA/src/view/TelaCadstroCliente.java</file>
+            <file>file:/C:/Users/Edson/Documents/GitHub/TrabalhoPOO2-desktop/DWPIZZA/src/control/ClienteControl.java</file>
+            <file>file:/C:/Users/Edson/Documents/GitHub/TrabalhoPOO2-desktop/DWPIZZA/src/model/dao/ClienteDAO.java</file>
         </group>
     </open-files>
 </project-private>
